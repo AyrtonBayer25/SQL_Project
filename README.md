@@ -1,6 +1,6 @@
 # ***SQL_Project***
-**Create an employee database to pull information regarding each employee that works in the company.**
-The following Information is to be gathered:
+**Create an employee database to pull information regarding each employee that works in the company.
+The following Information is to be gathered:**
 
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
